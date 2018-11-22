@@ -1,0 +1,29 @@
+spring:
+  profiles:
+    active: dev
+
+# mybatis
+mybatis:
+  mapper-locations: classpath:/com/rrl/dao/mapper/*.xml
+  type-aliases-package: com.rrl.model
+# tk.mapper
+mapper:
+  mappers: 
+    - com.rrl.model.mapper
+  not-empty: false
+  identity: MYSQL
+# pagehelper分页插件
+pagehelper:
+  helperDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql
+
+#  thymeleaf:
+#    mode: HTML5
+#    encoding: UTF-8
+#    suffix: .html
+#    prefix: classpath:templates/
+#    servlet:
+#      content-type: text/html
+

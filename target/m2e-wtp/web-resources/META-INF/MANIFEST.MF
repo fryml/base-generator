@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: base-generator Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Luna
+Implementation-Vendor-Id: com.base.generator
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
