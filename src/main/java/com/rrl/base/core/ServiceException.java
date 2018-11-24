@@ -3,7 +3,7 @@ package com.rrl.base.core;
 /**
  * 服务（业务）异常如“ 账号或密码错误 ”，该异常只做INFO级别的日志记录
  * 
- * @author maliang
+ * @author ml
  * @date 2018年11月6日 下午2:10:55
  *
  */

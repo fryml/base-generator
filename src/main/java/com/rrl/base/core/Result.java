@@ -5,7 +5,7 @@ import com.alibaba.fastjson.JSON;
 /**
  * 统一API响应结果封装
  * 
- * @author maliang
+ * @author ml
  * @date 2018年11月6日 下午2:48:02
  *
  */

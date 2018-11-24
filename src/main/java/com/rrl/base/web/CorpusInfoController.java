@@ -11,7 +11,7 @@ import javax.annotation.Resource;
 import java.util.List;
 
 /**
-* Created by maliang on 2018/11/24.
+* Created by ml on 2018/11/24.
 */
 @RestController
 @RequestMapping("/corpus/info")

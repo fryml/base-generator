@@ -11,7 +11,7 @@ import javax.annotation.Resource;
 
 
 /**
- * Created by maliang on 2018/11/24.
+ * Created by ml on 2018/11/24.
  */
 @Service
 public class CorpusInfoServiceImpl extends AbstractService<CorpusInfo> implements CorpusInfoService {

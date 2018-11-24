@@ -4,7 +4,7 @@ import com.rrl.base.core.Service;
 
 
 /**
- * Created by maliang on 2018/11/24.
+ * Created by  on 2018/11/24.
  */
 public interface CorpusInfoService extends Service<CorpusInfo> {
 

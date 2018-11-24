@@ -7,7 +7,7 @@ import tk.mybatis.mapper.common.special.InsertListMapper;
 
 /**
  * 自定义mapper
- * @author maliang
+ * @author ml
  * @date 2018年11月6日 下午2:35:11
  *
  * @param <T>
