@@ -1,2 +1,2 @@
 # base-generator
-代码生成
+基于mybatis的代码自动生成工具
